@@ -1,0 +1,40 @@
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\Dark Nights.csproj.AssemblyReference.cache
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\Dark Nights.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\Dark Nights.AssemblyInfoInputs.cache
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\Dark Nights.AssemblyInfo.cs
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\Dark Nights.csproj.CoreCompileInputs.cache
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Content\FONT\Constantina.xnb
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Content\FONT\VT323.xnb
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Content\IMG\basicStructureCorner.xnb
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Content\IMG\basicStructureEnd.xnb
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Content\IMG\basicStructureFull.xnb
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Content\IMG\DesignButtonLogo.xnb
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Dark Nights.exe
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Dark Nights.deps.json
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Dark Nights.runtimeconfig.json
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Dark Nights.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Dark Nights.pdb
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\NLog.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\Dark Nights.csproj.CopyComplete
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\Dark Nights.dll
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\refint\Dark Nights.dll
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\Dark Nights.pdb
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\Dark Nights.genruntimeconfig.cache
+D:\Programming\Development\Dark Nights\Dark Nights\obj\Debug\net6.0\ref\Dark Nights.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\NLog.config
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Apos.Camera.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Apos.History.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Apos.Input.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\MonoGame.Extended.dll
+D:\Programming\Development\Dark Nights\Dark Nights\bin\Debug\net6.0\Newtonsoft.Json.dll

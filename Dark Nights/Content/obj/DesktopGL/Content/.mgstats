@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Programming/Development/Nebula/Nebula/Content/FONT/Constantina.spritefont","D:/Programming/Development/Nebula/Nebula/Content/bin/DesktopGL/Content/FONT/Constantina.xnb","FontDescriptionProcessor","SpriteFontContent",2013,21538,0.2103976
+"D:/Programming/Development/Nebula/Nebula/Content/FONT/VT323.spritefont","D:/Programming/Development/Nebula/Nebula/Content/bin/DesktopGL/Content/FONT/VT323.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.6240404
+"D:/Programming/Development/Nebula/Nebula/Content/IMG/basicStructureCorner.psd","D:/Programming/Development/Nebula/Nebula/Content/bin/DesktopGL/Content/IMG/basicStructureCorner.xnb","TextureProcessor","Texture2DContent",89418,250085,0.2649945
+"D:/Programming/Development/Nebula/Nebula/Content/IMG/basicStructureEnd.psd","D:/Programming/Development/Nebula/Nebula/Content/bin/DesktopGL/Content/IMG/basicStructureEnd.xnb","TextureProcessor","Texture2DContent",83685,250085,0.0111193
+"D:/Programming/Development/Nebula/Nebula/Content/IMG/basicStructureFull.psd","D:/Programming/Development/Nebula/Nebula/Content/bin/DesktopGL/Content/IMG/basicStructureFull.xnb","TextureProcessor","Texture2DContent",75104,250085,0.0143584
+"D:/Programming/Development/Nebula/Nebula/Content/IMG/DesignButtonLogo.psd","D:/Programming/Development/Nebula/Nebula/Content/bin/DesktopGL/Content/IMG/DesignButtonLogo.xnb","TextureProcessor","Texture2DContent",103325,262229,0.0377045

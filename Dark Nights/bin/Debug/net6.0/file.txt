@@ -1,0 +1,16 @@
+2023-02-20 14:16:41.2804|INFO|Nebula.Main.Program|Game Init..
+2023-02-20 14:16:41.9161|DEBUG|Nebula.Main.Input|Adding Listener.. 1
+2023-02-20 14:16:42.1759|INFO|Nebula.Main.Runtime|Hello World!
+2023-02-20 14:16:46.2934|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[177,-8]
+2023-02-20 14:16:48.7890|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[228,-8]
+2023-02-20 14:16:49.2723|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[612,260]
+2023-02-20 14:16:49.6390|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[386,338]
+2023-02-20 14:16:52.1723|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[317,226]
+2023-02-20 14:17:01.2224|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[602,444]
+2023-02-20 14:17:01.8392|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[937,294]
+2023-02-20 14:17:02.2390|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[1215,155]
+2023-02-20 14:17:03.3723|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[7,10]
+2023-02-20 14:17:05.4890|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[5,7]
+2023-02-20 14:17:10.5937|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[60,-21]
+2023-02-20 14:17:12.7633|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[535,-10]
+2023-02-20 14:17:13.9177|INFO|Nebula.Program.Tiles.TileController|Pointer Click::[1347,-15]

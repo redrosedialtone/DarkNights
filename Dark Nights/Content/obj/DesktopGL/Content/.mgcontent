@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Programming/Development/Nebula/Nebula/Content/FONT/Constantina.spritefont</File>
+    <File>D:/Programming/Development/Nebula/Nebula/Content/FONT/VT323.spritefont</File>
+    <File>D:/Programming/Development/Nebula/Nebula/Content/IMG/basicStructureCorner.psd</File>
+    <File>D:/Programming/Development/Nebula/Nebula/Content/IMG/basicStructureEnd.psd</File>
+    <File>D:/Programming/Development/Nebula/Nebula/Content/IMG/basicStructureFull.psd</File>
+    <File>D:/Programming/Development/Nebula/Nebula/Content/IMG/DesignButtonLogo.psd</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
