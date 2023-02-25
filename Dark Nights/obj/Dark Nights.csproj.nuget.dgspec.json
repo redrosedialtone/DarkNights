@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Development\\Dark Nights\\Dark Nights\\Dark Nights.csproj": {}
+    "D:\\Programming\\Development\\Dark Nights\\DarkNights\\Dark Nights\\Dark Nights.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Development\\Dark Nights\\Dark Nights\\Dark Nights.csproj": {
+    "D:\\Programming\\Development\\Dark Nights\\DarkNights\\Dark Nights\\Dark Nights.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Development\\Dark Nights\\Dark Nights\\Dark Nights.csproj",
+        "projectUniqueName": "D:\\Programming\\Development\\Dark Nights\\DarkNights\\Dark Nights\\Dark Nights.csproj",
         "projectName": "Dark Nights",
-        "projectPath": "D:\\Programming\\Development\\Dark Nights\\Dark Nights\\Dark Nights.csproj",
+        "projectPath": "D:\\Programming\\Development\\Dark Nights\\DarkNights\\Dark Nights\\Dark Nights.csproj",
         "packagesPath": "C:\\Users\\redro\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Development\\Dark Nights\\Dark Nights\\obj\\",
+        "outputPath": "D:\\Programming\\Development\\Dark Nights\\DarkNights\\Dark Nights\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\redro\\AppData\\Roaming\\NuGet\\NuGet.Config",

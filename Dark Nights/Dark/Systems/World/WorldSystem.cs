@@ -64,8 +64,8 @@ namespace Dark
                 InvalidateChunk(Chunk);
             }
 
-           /* var hammer = EntitySystem.Get.CreateEntity("entity.tool.hammer");
-            EntitySystem.Get.PlaceEntity(hammer, TileUnsf(new WorldPoint(5,5)));*/
+            var hammer = EntitySystem.Get.CreateEntity("entity.tool.hammer");
+            EntitySystem.Get.PlaceEntity(hammer, TileUnsf(new WorldPoint(5,5)));
         }
 
         public override void Tick()

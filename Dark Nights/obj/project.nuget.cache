@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HkwClDbIkKIabKfsjkxcvV7UNYip+1FgidpoVNqOiBmfep+9+bHEhrZ4y30rw9e/XWv/erFbCrXk9GuXGcibyw==",
+  "dgSpecHash": "dE1El4PBTmdNLpwU0nn+X4taFbBMt1qbM7L+cLs2EoEfFbfPjIsZI+ndZIX59zVXzwT+oLay5B0Mfvc7klSxrg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Development\\Dark Nights\\Dark Nights\\Dark Nights.csproj",
+  "projectFilePath": "D:\\Programming\\Development\\Dark Nights\\DarkNights\\Dark Nights\\Dark Nights.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\redro\\.nuget\\packages\\apos.camera\\0.3.2\\apos.camera.0.3.2.nupkg.sha512",
     "C:\\Users\\redro\\.nuget\\packages\\apos.history\\1.1.2\\apos.history.1.1.2.nupkg.sha512",
